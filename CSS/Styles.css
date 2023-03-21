@@ -21,3 +21,10 @@ h3, h4, h5 {
 strong, p, li {
     color: #315c6b;
 }
+
+img.Table-A {
+    float: left;
+    width: 450px;
+    height: 450px;
+    object-fit: scale-down;
+}
